@@ -1,0 +1,7 @@
+
+compile several files
+g++ -c foo.cpp
+just make sure that each class files has no fault on rule
+
+g++ -o exe_name main.cpp foo.o
+
