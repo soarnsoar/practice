@@ -1,8 +1,0 @@
-class Vector{
-
- private:
-  
-
-
-
-}
